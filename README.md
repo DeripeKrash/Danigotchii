@@ -89,5 +89,5 @@ Those function are located in GraphFunction.cs
 
 
 ## Credit
-- FIGEREIDO Alex
+- FIGEIREDO Alex
 - PETIT Denis
